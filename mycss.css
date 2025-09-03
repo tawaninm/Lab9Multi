@@ -1,0 +1,33 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 34px;
+    font-style: bold;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26px;
+}
+
+#joe {
+    color: green;
+} 
+
+#friend {
+    font-size: 36;
+    font-style: bold;
+    color: blue;
+}
+
+#sally {
+    color: blue;
+}
+
+#bob {
+    color: green;
+}
+
+img {
+    border-radius: 8px;
+    filter: grayscale(100%);
+    filter: blur(50%);
+    filter:contrast(70%);
+}
